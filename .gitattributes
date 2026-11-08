@@ -1,0 +1,14 @@
+* text=auto
+*.m   text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
+*.dat text eol=lf
+*.tle text eol=lf
+*.png binary
+*.jpeg binary
+*.pdf binary
+
+# Keep input data byte-exact: the YUMA parser reads fixed-width fields
+# (fscanf '%c' counts), so line endings must not be rewritten.
+data/**            -text
+tests/baselines/** -text

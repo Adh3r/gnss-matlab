@@ -1,0 +1,11 @@
+# Course statements and raw material: not for public distribution
+private/
+
+# Generated outputs (regenerate with tests/run_labs.m); figures ARE committed
+results/logs/
+
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+slprj/
