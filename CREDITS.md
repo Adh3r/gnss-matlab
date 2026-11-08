@@ -27,3 +27,7 @@ analysis are the group's work.
 - Reference screenshots `results/figures/*_gnssmp_reference.*`: [GNSS Mission Planning](https://www.gnssmissionplanning.com).
 
 The course statements are not included in this repository.
+
+## Development assistance
+Claude (Anthropic) acted as a development assistant for code refactoring, test scaffolding and
+documentation. The engineering, the analysis and the authorship belong to the lab group.
