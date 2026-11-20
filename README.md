@@ -1,5 +1,10 @@
 # GNSS from Scratch: Satellite Orbits, Visibility, DOP and Positioning in MATLAB
 
+[![tests](https://github.com/Adh3r/gnss-matlab/actions/workflows/tests.yml/badge.svg)](https://github.com/Adh3r/gnss-matlab/actions/workflows/tests.yml)
+![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-orange)
+![toolboxes](https://img.shields.io/badge/toolboxes-none-success)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 ![GPS constellation ground track](results/figures/lab2_gps_constellation.png)
 
 A self-contained GNSS processing chain written in plain MATLAB (no toolboxes). It goes from raw
